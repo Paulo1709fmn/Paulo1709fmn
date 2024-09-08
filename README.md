@@ -8,4 +8,4 @@ Meu nome é Paulo
 
 Você pode entrar em contato comigo através do email: paulo.meurer.nogueira@escola.pr.gov.br
 
-![](https://media1.tenor.com/m/MhpcPDesURYAAAAd/neymar-neymar-jr.gif)
+![](https://media1.tenor.com/m/J1jNpBUkqkYAAAAC/cr7-calma.gif)
