@@ -6,6 +6,6 @@ Meu nome é Paulo
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo através do email: paulo.meurer.nogueira@escola.pr.gov.br
+Você pode entrar em contato comigo através do email: paulo.meurer.nogueira@escola.pr.gov.br
 
-![descrição do GIF](https://media1.tenor.com/m/MhpcPDesURYAAAAd/neymar-neymar-jr.gif)
+![](https://media1.tenor.com/m/MhpcPDesURYAAAAd/neymar-neymar-jr.gif)
